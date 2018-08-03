@@ -3473,17 +3473,91 @@ body.is-menu-visible #menu {
   line-height: inherit;
 }
 
+@media screen and (max-width: 415px) {
+	#header-right {
+		width: 50%;
+		display: flex;
+		justify-content: flex-end;
+		margin-left: 80%;
+	  }
+}
+
+
+@media screen and (min-width: 416px) {
+	#header-right {
+		width: 50%;
+		display: flex;
+		justify-content: flex-end;
+		margin-left: 777%;
+	  }
+}
+
+@media screen and (min-width: 485px) {
+	#header-right {
+		width: 50%;
+		display: flex;
+		justify-content: flex-end;
+		margin-left: 72%;
+	  }
+}
+
+@media screen and (min-width: 556px) {
+	#header-right {
+		width: 50%;
+		display: flex;
+		justify-content: flex-end;
+		margin-left: 70%;
+	  }
+}
+
+@media screen and (min-width: 584px) {
+	#header-right {
+		width: 50%;
+		display: flex;
+		justify-content: flex-end;
+		margin-left: 70%;
+	  }
+}
+
+
+@media screen and (min-width: 600px) {
+	#header-right {
+		width: 50%;
+		display: flex;
+		justify-content: flex-end;
+		margin-left: 68%;
+	  }
+}
+
+
+@media screen and (min-width: 664px) {
+	#header-right {
+		width: 50%;
+		display: flex;
+		justify-content: flex-end;
+		margin-left: 66%;
+	  }
+}
+
+@media screen and (min-width: 737px) {
+	#header-right {
+		width: 50%;
+		display: flex;
+		justify-content: flex-end;
+		margin-left: 54%;
+	  }
+}
 @media screen and (max-width: 736px) {
   #header h1 a {
     font-size: 0.8em;
   }
 
-  #header-right {
+  /* #header-right {
     width: 50%;
     display: flex;
     justify-content: flex-end;
     margin-left: 81%;
-  }
+  } */
 }
 
 #header nav {
