@@ -3473,6 +3473,27 @@ body.is-menu-visible #menu {
   line-height: inherit;
 }
 
+
+
+
+/* @media screen and (max-width: 668px) {
+	#header-right {
+		width: 50%;
+		display: flex;
+		justify-content: flex-end;
+		margin-left: 89%;
+	  }
+} */
+
+
+
+
+
+
+
+
+/* 
+
 @media screen and (max-width: 415px) {
 	#header-right {
 		width: 50%;
@@ -3481,14 +3502,12 @@ body.is-menu-visible #menu {
 		margin-left: 80%;
 	  }
 }
-
-
 @media screen and (min-width: 416px) {
 	#header-right {
 		width: 50%;
 		display: flex;
 		justify-content: flex-end;
-		margin-left: 777%;
+		margin-left: 77%;
 	  }
 }
 
@@ -3550,7 +3569,7 @@ body.is-menu-visible #menu {
 @media screen and (max-width: 736px) {
   #header h1 a {
     font-size: 0.8em;
-  }
+  } */
 
   /* #header-right {
     width: 50%;
