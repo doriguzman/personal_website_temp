@@ -2725,7 +2725,8 @@ button:disabled,
   /* background-color: white;
   color: pink; */
   background-color:white;
-  color:#c7ebe8; 
+  /* color:#c7ebe8;  */
+  color: #6CBDB5;
 }
 
 
@@ -4163,15 +4164,15 @@ body.is-mobile.landing #footer {
 
 .projects-title {
   /* color: pink; */
-  color:#c7ebe8;
-  /* color:#6CBDB5 */
+  /* color:#c7ebe8; */
+  color:#6CBDB5
 }
 
 .projects-intro {
   background-color: black;
   /* color: pink; */
-  color:#c7ebe8;
-  /* color:#6CBDB5; */
+  /* color:#c7ebe8; */
+  color:#6CBDB5;
   width: 100%;
   height: 200px;
   padding-top: 5%;
