@@ -2488,7 +2488,8 @@ input[type="button"].special,
 button.special,
 .button.special {
   /* background-color: pink; */
-  background-color:#c7ebe8;
+  /* background-color:#c7ebe8; */
+  background-color:#6CBDB5;
   box-shadow: 5px 10px !important;
   color: #ffffff !important;
 }
@@ -2512,7 +2513,8 @@ input[type="reset"].special:active,
 input[type="button"].special:active,
 button.special:active,
 .button.special:active {
-  background-color: rgb(255, 79, 108) !important;
+  /* background-color: rgb(255, 79, 108) !important; */
+  background-color: rgba(73, 214, 232, 0.83) !important;
 }
 
 input[type="submit"].disabled,
@@ -4019,8 +4021,8 @@ body.is-mobile #main > header {
 
 #footer .icons a:hover {
   /* color: pink; */
-  /* color:#c7ebe8; */
-  color:#6CBDB5
+  color:#c7ebe8;
+  /* color:#6CBDB5 */
 }
 
 #footer .copyright {
@@ -4161,15 +4163,15 @@ body.is-mobile.landing #footer {
 
 .projects-title {
   /* color: pink; */
-  /* color:#c7ebe8; */
-  color:#6CBDB5
+  color:#c7ebe8;
+  /* color:#6CBDB5 */
 }
 
 .projects-intro {
   background-color: black;
   /* color: pink; */
-  /* color:#c7ebe8; */
-  color:#6CBDB5;
+  color:#c7ebe8;
+  /* color:#6CBDB5; */
   width: 100%;
   height: 200px;
   padding-top: 5%;
