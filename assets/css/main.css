@@ -2981,7 +2981,7 @@ button:disabled,
 .wrapper.style3 {
   /* background-color: pink; */
   /* background-color:#c7ebe8; */
-  background-color: #6CBDB5;
+  /* background-color: #6CBDB5; */
   color: white;
 }
 
@@ -4021,8 +4021,8 @@ body.is-mobile #main > header {
 
 #footer .icons a:hover {
   /* color: pink; */
-  color:#c7ebe8;
-  /* color:#6CBDB5 */
+  /* color:#c7ebe8; */
+  color:#6CBDB5
 }
 
 #footer .copyright {
