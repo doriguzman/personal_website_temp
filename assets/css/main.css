@@ -2487,7 +2487,8 @@ input[type="reset"].special,
 input[type="button"].special,
 button.special,
 .button.special {
-  background-color: pink;
+  /* background-color: pink; */
+  background-color:#6CBDB5;
   box-shadow: 5px 10px !important;
   color: #ffffff !important;
 }
@@ -2497,9 +2498,13 @@ input[type="reset"].special:hover,
 input[type="button"].special:hover,
 button.special:hover,
 .button.special:hover {
-  background-color: rgb(255, 79, 108) !important;
+  /* background-color: rgb(255, 79, 108) !important; */
+  /* color: pink !important; */
+  
+  background-color: rgba(73, 214, 232, 0.83) !important;
   box-shadow: 5px 10px !important;
-  color: pink !important;
+  color:#c7ebe8 !important;
+
 }
 
 input[type="submit"].special:active,
@@ -2710,30 +2715,17 @@ button:disabled,
   background-color: rgba(0, 0, 0, 0.075);
 }
 
-.spotlight:nth-child(2) {
-  background-color: white;
-  color: pink;
-}
-
-.spotlight:nth-child(3) {
-  background-color: white;
-  color: pink;
-}
-
-.spotlight:nth-child(4) {
-  background-color: white;
-  color: pink;
-}
-
-.spotlight:nth-child(5) {
-  background-color: white;
-  color: pink;
-}
-
+.spotlight:nth-child(2), 
+.spotlight:nth-child(3),
+.spotlight:nth-child(4), 
+.spotlight:nth-child(5),
 .spotlight:nth-child(6) {
-  background-color: white;
-  color: pink;
+  /* background-color: white;
+  color: pink; */
+  background-color:white;
+  color:#c7ebe8; 
 }
+
 
 .spotlight:nth-child(7) {
   background-color: white;
@@ -2817,13 +2809,15 @@ button:disabled,
 }
 
 .wrapper.style1 {
-  background-color: pink;
+  /* background-color: pink; */
+  background-color:#c7ebe8; 
   color: #c7ebe8;
 }
 
 .wrapper.style1 strong,
 .wrapper.style1 b {
-  color: #ffffff;
+  /* color: #ffffff; */
+  color:#6CBDB5;
 }
 
 .wrapper.style1 h2,
@@ -2983,7 +2977,8 @@ button:disabled,
 }
 
 .wrapper.style3 {
-  background-color: pink;
+  /* background-color: pink; */
+  background-color:#c7ebe8;
   color: white;
 }
 
@@ -3354,7 +3349,8 @@ button:disabled,
   -ms-transition: -ms-transform 0.5s ease;
   transition: transform 0.5s ease;
   -webkit-overflow-scrolling: touch;
-  background: pink;
+  /* background: pink; */
+  background:#c7ebe8;
   color: #ffffff;
   height: 100%;
   max-width: 80%;
@@ -3612,7 +3608,8 @@ body.is-menu-visible #menu {
 #header nav > ul > li > a.menuToggle:hover {
   outline: 0;
   position: relative;
-  color: pink;
+  /* color: pink; */
+  color:#c7ebe8;
 }
 
 #header nav > ul > li > a.menuToggle:after {
@@ -3768,11 +3765,13 @@ body.is-menu-visible #menu {
 }
 
 #banner .more:hover {
-  color: pink;
+  /* color: pink; */
+  color:#c7ebe8;
 }
 
 a.more.scrolly::after {
-  color: pink;
+  /* color: pink; */
+  color:#c7ebe8;
 }
 
 #banner .more:after {
@@ -3804,7 +3803,8 @@ a.more.scrolly::after {
   -ms-transition-delay: 1.25s;
   transition-delay: 1.25s;
   content: "";
-  background: pink;
+  /* background: pink; */
+  background:#c7ebe8;
   display: block;
   width: 100%;
   height: 100%;
@@ -4012,7 +4012,8 @@ body.is-mobile #main > header {
 }
 
 #footer .icons a:hover {
-  color: pink;
+  /* color: pink; */
+  color:#c7ebe8;
 }
 
 #footer .copyright {
@@ -4152,12 +4153,14 @@ body.is-mobile.landing #footer {
 }
 
 .projects-title {
-  color: pink;
+  /* color: pink; */
+  color:#c7ebe8;
 }
 
 .projects-intro {
   background-color: black;
-  color: pink;
+  /* color: pink; */
+  color:#c7ebe8;
   width: 100%;
   height: 200px;
   padding-top: 5%;
@@ -4188,11 +4191,13 @@ body.is-mobile.landing #footer {
 }
 
 #header-right .fa-2x:hover {
-  color: pink;
+  /* color: pink; */
+  color:#c7ebe8
 }
 
 .menuToggle:hover {
-  color: pink;
+  /* color: pink; */
+  color:#c7ebe8
 }
 
 .overlay {
