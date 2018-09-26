@@ -2488,7 +2488,7 @@ input[type="button"].special,
 button.special,
 .button.special {
   /* background-color: pink; */
-  background-color:#6CBDB5;
+  background-color:#c7ebe8;
   box-shadow: 5px 10px !important;
   color: #ffffff !important;
 }
@@ -2810,14 +2810,14 @@ button:disabled,
 
 .wrapper.style1 {
   /* background-color: pink; */
-  background-color:#c7ebe8; 
+  background-color:#6CBDB5; 
   color: #c7ebe8;
 }
 
 .wrapper.style1 strong,
 .wrapper.style1 b {
-  /* color: #ffffff; */
-  color:#6CBDB5;
+  color: #ffffff;
+  /* color:#6CBDB5; */
 }
 
 .wrapper.style1 h2,
@@ -2978,7 +2978,8 @@ button:disabled,
 
 .wrapper.style3 {
   /* background-color: pink; */
-  background-color:#c7ebe8;
+  /* background-color:#c7ebe8; */
+  background-color: #6CBDB5;
   color: white;
 }
 
@@ -3350,7 +3351,8 @@ button:disabled,
   transition: transform 0.5s ease;
   -webkit-overflow-scrolling: touch;
   /* background: pink; */
-  background:#c7ebe8;
+  /* background:#c7ebe8; */
+  background:#6CBDB5;
   color: #ffffff;
   height: 100%;
   max-width: 80%;
@@ -3609,7 +3611,8 @@ body.is-menu-visible #menu {
   outline: 0;
   position: relative;
   /* color: pink; */
-  color:#c7ebe8;
+  /* color:#c7ebe8; */
+  color: #6CBDB5;
 }
 
 #header nav > ul > li > a.menuToggle:after {
@@ -3766,12 +3769,14 @@ body.is-menu-visible #menu {
 
 #banner .more:hover {
   /* color: pink; */
-  color:#c7ebe8;
+  /* color:#c7ebe8; */
+  color:#6CBDB5;
 }
 
 a.more.scrolly::after {
   /* color: pink; */
-  color:#c7ebe8;
+  /* color:#c7ebe8; */
+  color:#6CBDB5;
 }
 
 #banner .more:after {
@@ -3804,7 +3809,8 @@ a.more.scrolly::after {
   transition-delay: 1.25s;
   content: "";
   /* background: pink; */
-  background:#c7ebe8;
+  /* background:#c7ebe8; */
+  background: #6CBDB5
   display: block;
   width: 100%;
   height: 100%;
@@ -4013,7 +4019,8 @@ body.is-mobile #main > header {
 
 #footer .icons a:hover {
   /* color: pink; */
-  color:#c7ebe8;
+  /* color:#c7ebe8; */
+  color:#6CBDB5
 }
 
 #footer .copyright {
@@ -4154,13 +4161,15 @@ body.is-mobile.landing #footer {
 
 .projects-title {
   /* color: pink; */
-  color:#c7ebe8;
+  /* color:#c7ebe8; */
+  color:#6CBDB5
 }
 
 .projects-intro {
   background-color: black;
   /* color: pink; */
-  color:#c7ebe8;
+  /* color:#c7ebe8; */
+  color:#6CBDB5;
   width: 100%;
   height: 200px;
   padding-top: 5%;
@@ -4190,15 +4199,14 @@ body.is-mobile.landing #footer {
   padding-right: 170px;
 }
 
-#header-right .fa-2x:hover {
-  /* color: pink; */
-  color:#c7ebe8
-}
-
+#header-right .fa-2x:hover, 
 .menuToggle:hover {
   /* color: pink; */
-  color:#c7ebe8
+  /* color:#c7ebe8 */
+  color:#6CBDB5
 }
+
+
 
 .overlay {
   position: absolute;
