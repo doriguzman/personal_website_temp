@@ -3810,7 +3810,7 @@ a.more.scrolly::after {
   content: "";
   /* background: pink; */
   /* background:#c7ebe8; */
-  background: #6CBDB5
+  background: #6CBDB5;
   display: block;
   width: 100%;
   height: 100%;
